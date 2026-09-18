@@ -256,14 +256,6 @@ Budget Variance % =
 **Finance & Accounting Sample Datasets** — 5 fully synthetic, audit-ready Excel workbooks  
 Source: [Excelx.com — Free Finance & Accounting Sample Data](https://excelx.com/practice-data/finance-accounting/)  
 License: Free for practice and portfolio use
-
----
-
-
-Abel Okpanachi
-- GitHub: https://github.com/Youngboss45
-- LinkedIn: https://www.linkedin.com/in/abel-okpanachi-170404277/
-
 ---
 
 *Built as a portfolio project demonstrating a complete data engineering workflow — from raw Excel files to an interactive financial dashboard.*
